@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BuildPerl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://abt-ismcm.de.bosch.com/svn/Source/Minitools/BuildCSharp/BuildPerl/builds/production/sources/build_2/BuildPerl_xsd.xsd">
+  <ScriptName>checkDir.pl</ScriptName>
+  <PerlBin>C:\strawberry-perl-5.30.1.1-64bit\perl\bin\perl.exe</PerlBin>
+  <PerlAppDir>C:\perl2exe\perl2exe-30.10-win</PerlAppDir>
+  <perl_include>lib</perl_include>
+  <perl2exe_include>Encode/Unicode</perl2exe_include>
+  <perl2exe_include>XML/Parser/Style/Tree</perl2exe_include>
+  <perl2exe_include>"unicore/Heavy.pl"</perl2exe_include>
+  <perl2exe_include>"unicore/To/Cf.pl"</perl2exe_include>
+  <perl2exe_include>IO/Uncompress/Bunzip2</perl2exe_include>
+  <OutDirRelativ></OutDirRelativ>
+</BuildPerl>
